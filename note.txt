@@ -1,0 +1,2 @@
+I could  make a delete all work at once but it has a bad UX cause there is folder and files 
+so i decided to delete it one by one .
